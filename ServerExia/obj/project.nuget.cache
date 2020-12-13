@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Jr8/IrqwOHp0RUhNt8f4YtXKyiWBXqIGMcxqEr6zTCt11Lhmr2jY3U83/Pfe7cWC5PSqqYZSJYfOE8U5X5Ufw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\liabel\\source\\repos\\Socket_WS\\ServerExia\\ServerExia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liabel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\liabel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

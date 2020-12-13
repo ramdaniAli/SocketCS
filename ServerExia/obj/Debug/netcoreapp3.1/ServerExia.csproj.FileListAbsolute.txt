@@ -1,0 +1,13 @@
+C:\Users\liabel\source\repos\Socket_WS\ServerExia\bin\Debug\netcoreapp3.1\ServerExia.exe
+C:\Users\liabel\source\repos\Socket_WS\ServerExia\bin\Debug\netcoreapp3.1\ServerExia.deps.json
+C:\Users\liabel\source\repos\Socket_WS\ServerExia\bin\Debug\netcoreapp3.1\ServerExia.runtimeconfig.json
+C:\Users\liabel\source\repos\Socket_WS\ServerExia\bin\Debug\netcoreapp3.1\ServerExia.runtimeconfig.dev.json
+C:\Users\liabel\source\repos\Socket_WS\ServerExia\bin\Debug\netcoreapp3.1\ServerExia.dll
+C:\Users\liabel\source\repos\Socket_WS\ServerExia\bin\Debug\netcoreapp3.1\ServerExia.pdb
+C:\Users\liabel\source\repos\Socket_WS\ServerExia\obj\Debug\netcoreapp3.1\ServerExia.csprojAssemblyReference.cache
+C:\Users\liabel\source\repos\Socket_WS\ServerExia\obj\Debug\netcoreapp3.1\ServerExia.AssemblyInfoInputs.cache
+C:\Users\liabel\source\repos\Socket_WS\ServerExia\obj\Debug\netcoreapp3.1\ServerExia.AssemblyInfo.cs
+C:\Users\liabel\source\repos\Socket_WS\ServerExia\obj\Debug\netcoreapp3.1\ServerExia.csproj.CoreCompileInputs.cache
+C:\Users\liabel\source\repos\Socket_WS\ServerExia\obj\Debug\netcoreapp3.1\ServerExia.dll
+C:\Users\liabel\source\repos\Socket_WS\ServerExia\obj\Debug\netcoreapp3.1\ServerExia.pdb
+C:\Users\liabel\source\repos\Socket_WS\ServerExia\obj\Debug\netcoreapp3.1\ServerExia.genruntimeconfig.cache
